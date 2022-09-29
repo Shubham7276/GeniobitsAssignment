@@ -1,0 +1,40 @@
+.conatiner{
+  min-height: 569px;
+  background-color: #e4ecf7;
+}
+
+.container1{
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.card{
+  width: 300px !important;
+  height: 185px !important;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
+.row1{
+ width: 80%;
+}
+.row2{
+  width: 20%;
+}
+
+.btn{
+  background-color: #df5c33 !important;
+}
+
+.title{
+  position: relative;
+    right: 13px;
+    bottom: 1px;
+    height: 40px;
+    text-align: -webkit-center;
+    width: 300px;
+    background-color: #16a997;
+    color: white;
+}
